@@ -10,7 +10,15 @@
     
     
     
+    
 }
+
+.text-main {
+    color: white;
+    margin-top: 20px;
+
+}
+
 
 #bottom {
     display: flex;
