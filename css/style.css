@@ -13,6 +13,8 @@
     
 }
 
+
+
 .text-main {
     color: white;
     margin-top: 20px;
@@ -52,6 +54,7 @@
 }
 
 .icons-end {
+    flex-direction: column;
     justify-self: end;
 }
 
