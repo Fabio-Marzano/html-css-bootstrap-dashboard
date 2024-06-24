@@ -13,6 +13,12 @@
     
 }
 
+header {
+    flex-basis: 150px;
+    width: 100%;
+    background-color: white;
+}
+
 
 
 .text-main {
@@ -31,12 +37,16 @@
     width: 50px;
     height: 100%;
     background-color: rgb(13, 13, 35);
+    flex-direction: column;
+    flex-basis: 150px;
+    justify-content: space-between;
     
 }
 #main {
     width: calc(100vw - 50px);
     height: 100%;
     background-color:white;
+    flex-grow: 1;
 }
 
 .img {
