@@ -13,6 +13,21 @@
     
 }
 
+.blue {
+    background-color: rgb(4, 4, 87);
+    border: 1px solid black;
+    border-radius: 20%;
+    display: inline-block;
+    font-size: 10px;
+}
+.size {
+    font-size: 10px;
+}
+.yellow {
+    background-color: rgb(254, 196, 4);
+    border: 1px solid black;
+}
+
 header {
     flex-basis: 150px;
     width: 100%;
